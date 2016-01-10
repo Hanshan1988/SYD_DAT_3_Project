@@ -14,4 +14,6 @@
 ### Project 3: Human Activity Recognition (UCI ML Repository) 
 * This project aims to classify user behaviours from sensor data from mobile phones such as accelerometer and gyroscope readings.
 * This is ultimately a classification problem with important feature engineering/selection components.
+* This can also be explored as an unsupervised problem to cluster user behaviours.
+* Again visualisation will be important when clustering.
 
