@@ -1,2 +1,4 @@
-# SYD_DAT_3_Project
-# Individual Project for Data Science Course at GA
+# Individual Project for GA Data Science Course
+## Project Outline
+
+
