@@ -1,4 +1,4 @@
-# Individual Project for General Assembly's Data Science Course
+# Project for General Assembly's Data Science Course
 ## NYC Yellow Taxi 2013
 ### Project Outline
 * To predict taxi fare price under different conditions.
@@ -13,7 +13,7 @@
 ### How It Runs 
 * Clone this repository
 * In terminal, navigate to the directory of this repo folder on your local machine
-* In terminal, type 'python __init__.py'
+* In terminal, type 'python \_\_init\_\_.py'
 * Open an internet browser page and type in 'localhost:5000'
 
 ### How It Works
