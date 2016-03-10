@@ -10,7 +10,7 @@ def index():
     """
     Uses Flask's Jinja2 template renderer to generate the html
     """
-    return render_template('index3.html')
+    return render_template('index.html')
 
 @app.route('/predict/<trip_array>/1')
 def predict(trip_array):
