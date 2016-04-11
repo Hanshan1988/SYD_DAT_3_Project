@@ -5,6 +5,9 @@
 * To classify the probability of sharing a ride within 10-minute waiting windows under different conditions.
 * To visualize the changes of taxi demand at different pickup and dropoff points under different conditions.
 
+#### Software Dependencies
+* Python 2.7 through Ananconda distribution (packages include numpy, scipy and scikit-learn)
+
 #### The Data
 * The taxi dataset contains variables such as pick-up and drop-off points, time of the day, number of passengers, travel time and fare.
 * The taxi data can be obtained from http://www.andresmh.com/nyctaxitrips/
