@@ -23,4 +23,4 @@
 * The machine learning models are trained in Python and exported as pickle .pkl files.
 * The taxi fare prediction model is a regression one and the taxi shareabiliy model is a classification one.
 * The pickled models are are applied to web pages through Flask, a micro web framework linking Python with HTML, CSS and JavaScript libraries.
-* Visualizations on are done with Leaflet and D3, both JavaScript libraries.
+* Mapping is done with Leaflet and visualization done with d3.js, both JavaScript libraries.
