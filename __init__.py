@@ -24,9 +24,6 @@ def predict(trip_array):
 @app.route('/predict/<trip_array>/2')
 def predict_proba(trip_array):
 	"""
-	Uses a pre-built sklearn SVM predictor to classify a handwritten glyph as
-	an alphanumeric digit.
-	Input: image_vector=feature vector of integer representing pixel intensity
 	Output: JSON object where result=alphanumeric character predicted by model
 	"""
 	trip_array = map(lambda el: float(el), trip_array.split(","))
